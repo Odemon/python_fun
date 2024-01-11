@@ -5,6 +5,5 @@ def asciiDoor(num):
            .   .
            .   .
            .   .
-           ----- 
-        '''
-    print(door)
+           -----'''
+    print(door,end='')
